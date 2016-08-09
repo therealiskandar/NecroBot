@@ -50,7 +50,7 @@
     },
 	{
       "Key": "eventUsedIncense",
-      "Value": "Memakai incense, tersisa: {0}"
+      "Value": "Memakai Incense, tersisa: {0}"
     },
     {
       "Key": "eventUsedLuckyEgg",
@@ -146,11 +146,11 @@
     },
     {
       "Key": "displayHighestsLevelHeader",
-      "Value": "Menampilkan level terbesar"
+      "Value": "Menampilkan level tertinggi"
     },
     {
       "Key": "welcomeWarning",
-      "Value": "Pastikan koordinat Kamu Sudah Benar. Tutup program dan konfigurasi ulang jika tidak! X (lintang): {0} Y (bujur): {1}"
+      "Value": "Pastikan koordinat Kamu sudah benar. Tutup program dan konfigurasi ulang jika tidak! X (lintang): {0} Y (bujur): {1}"
     },
     {
       "Key": "incubatorPuttingEgg",
@@ -258,7 +258,7 @@
     },
     {
       "Key": "coordinatesAreInvalid",
-      "Value": "Koordinat di berkas \"LastPos.ini\" Tidak Dapat digunakan, menggunakan koordinat bawaan"
+      "Value": "Koordinat di berkas \"LastPos.ini\" tidak Dapat digunakan, menggunakan koordinat bawaan"
     },
     {
       "Key": "gotUpToDateVersion",
